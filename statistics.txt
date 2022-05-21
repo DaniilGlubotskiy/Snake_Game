@@ -1,0 +1,7 @@
+6 яблок - Player
+4 яблок - test1
+3 яблок - New Player
+2 яблок - test2
+2 яблок - 000
+11 яблок - Test Test Test
+1 яблок - qwe
